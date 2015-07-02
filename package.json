@@ -1,0 +1,24 @@
+{
+  "name": "cloneunsplash",
+  "version": "1.0.0",
+  "description": "Clone images from unsplash.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trangtv04110/cloneunsplash"
+  },
+  "author": "TrangTV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trangtv04110/cloneunsplash/issues"
+  },
+  "homepage": "https://github.com/trangtv04110/cloneunsplash",
+  "dependencies": {
+    "gm": "^1.18.1",
+    "progress": "^1.1.8",
+    "request": "^2.58.0"
+  }
+}
